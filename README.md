@@ -1,2 +1,2 @@
-# pyton_homeworks
+# python_homeworks
 Homeworks from machine learning course
